@@ -1,0 +1,14 @@
+C:\Projetos\cep\App1_cep\App1_cep\bin\Debug\netstandard2.0\App1_cep.deps.json
+C:\Projetos\cep\App1_cep\App1_cep\bin\Debug\netstandard2.0\App1_cep.dll
+C:\Projetos\cep\App1_cep\App1_cep\bin\Debug\netstandard2.0\ref\App1_cep.dll
+C:\Projetos\cep\App1_cep\App1_cep\bin\Debug\netstandard2.0\App1_cep.pdb
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\App1_cep.csprojAssemblyReference.cache
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\App1_cep.AssemblyInfoInputs.cache
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\App1_cep.AssemblyInfo.cs
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\App1_cep.csproj.CoreCompileInputs.cache
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\App1_cep.dll
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\ref\App1_cep.dll
+C:\Projetos\cep\App1_cep\App1_cep\obj\Debug\netstandard2.0\App1_cep.pdb
